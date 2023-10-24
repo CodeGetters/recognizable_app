@@ -10,8 +10,8 @@ npm start
 # 运行
 npm run android
 
-# 清楚缓存
-npm run clean
+# 清理缓存后启动
+npm run start --reset-cache
 
 # 打包发布版
 npm run build:android
